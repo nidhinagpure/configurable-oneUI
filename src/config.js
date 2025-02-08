@@ -3,7 +3,7 @@
 const WEBSITE_NAME = "JUST DIAL🎂";
 const WEBSITE_TITLE = "Bring A Box Of Happiness Today";
 const HEADER_IMAGES = "https://i0.wp.com/ovenfresh.in/wp-content/uploads/2023/02/Blissful-Overloaded-Cake-With-Dark-Chocolate-White-Chocolate-And-Macarons-750g-2.jpg?fit=1500%2C1500&ssl=1";
-const WEB_DESCRIPTIONS = `A cake shop</span> is a delightful bakery specializing in cakes, pastries, and sweet treats.
+const WEB_DESCRIPTIONS = `A cake shop is a delightful bakery specializing in cakes, pastries, and sweet treats.
                         It is often a warm, inviting space filled with the rich aroma of freshly baked goods,
                         beautifully decorated cakes, and an array of colorful desserts displayed in glass cases.
                         Walking into a cake shop feels like stepping into a sweet wonderland. The air is fille
